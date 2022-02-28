@@ -6,6 +6,15 @@ Python project at the University of Minho / Applied Statistics / 1st semester / 
 Projeto em Python da universidade do Minho / Estatística aplicada / 1º semestre / Algoritmia e Programação
 
 ----------------------------------------------------------------
+Put all files in the same folder.  - 
+Open all *.py files.  - 
+Run the file "escolha_estatistica.py"
+
+Coloque todos os arquivos na mesma pasta.  -
+Abra os arquivos *.py  -
+corra o arquivo "escolha_estatistica.py"
+
+----------------------------------------------------------------
 
 Code's main function is to help the customer to choose between the different types of coffees in a coffee shop.
 On the other hand, it stores the data and provides a brief statistical analysis of customers who have already passed through the coffee shop.
@@ -17,7 +26,7 @@ Para acessar as estatísticas, é necessário saber a palavre-passe. E uma vez q
 
 ----------------------------------------------------------------
 
-The password is in the ps.txt file 
+The password is in the "ps.txt" file 
 
-A palavra-passe está no arquivo ps.txt 
+A palavra-passe está no arquivo "ps.txt" 
 
