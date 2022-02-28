@@ -1,0 +1,1 @@
+{"V60": 16, "Espresso": 22, "Espresso duplo": 34, "Cappuccino": 29, "Pingo": 24, "Flat White": 26, "total_cl": 191, "happy": 151, "sad": 23, "decididos": 17, "Acessos as estatisticas": 46}
